@@ -8,23 +8,24 @@ h1{
     color: gray;
 }
 body {
-    background-image: url('letöltés\ \(1\).png');
+    background-image: url('olympic-bright-circle-colorful-wallpaper-preview.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     }
     .my-box {
-        width: 400px;              /* Box width */
-        height: 250px;             /* Box height */
+        width: 250px;              /* Box width */
+        height: 60px;             /* Box height */
         background-color: #1a1a1a; /* Background color */
-        border: 2px solid #ff6262;    /* Border around the box */
-        padding: 20px;             /* Space inside the box */
+        border: 5px solid #ff3a3a;    /* Border around the box */
+        padding: 40px;             /* Space inside the box */
         margin: 20px auto;         /* Center horizontally */
         text-align: center;        /* Center text inside */
-        box-shadow: 4px 4px 10px rgba(0,0,0,0.2); /* Shadow effect */
+        box-shadow: 7px 7px 10px rgb(255, 15, 15); /* Shadow effect */
         border-radius: 10px;       /* Rounded corners */
         float: left;
     }
     button{
-        width: 300;
-        height: 200;
+        width: 200px;
+        height: 50px;
+        background-color: grey;
     }
