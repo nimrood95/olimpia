@@ -1,11 +1,12 @@
 p{
-    color: red;
+    color: rgba(255, 0, 0, 0.932);
 }
 h1{
     font-size: xx-large;
     font-style: italic;
     font-weight: bold;
-    color: gray;
+    color: rgb(255, 97, 97);
+    text-shadow: 0 0 3px rgba(255, 0, 0, 0.95), 0 0 12px rgba(255, 62, 62, 0.7), 0 0 20px rgba(218, 17, 17, 0.836);
 }
 body {
     background-image: url('olympic-bright-circle-colorful-wallpaper-preview.jpg');
