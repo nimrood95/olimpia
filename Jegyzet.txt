@@ -1,0 +1,29 @@
+                                                             <-- Jegyzet -->
+
+  KÉP ELHELYEZÉSE FULL BACKGROUND
+  
+    --> background-image: url(...);
+    --> background-repeat: no-repeat;
+    --> background-size: cover;
+
+  BOX BEHELYEZÉS
+
+    --> width: px;              /* Box width */
+    --> height: px;             /* Box height */
+    --> background-color:      /* Background color */
+    --> border: px solid      /* Border around the box */
+    --> padding: px;         /* Space inside the box */
+    --> margin: px auto;     /* Center horizontally */
+    --> text-align: center;    /* Center text inside */
+    --> box-shadow: px px px "szín" /* Shadow effect */
+    --> border-radius: px;       /* Rounded corners */
+    --> Aztán <div class="elnevezés"> tag.
+  
+  BUTTON BEHELYEZÉS
+
+    --> <button class="" onclick=""
+    --> ha weblap a link akkor onclick="window.location.href=''
+  
+  TEXT GLOW
+
+    --> text-shadow: 0 0 0px (szín), 0 0 0px (szín), 0 0 0px (szín);
