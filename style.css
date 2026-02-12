@@ -2,7 +2,7 @@ p{
     color: rgba(255, 0, 0, 0.932);
 }
 h1{
-    font-size: xx-large;
+    font-size: 250%;
     font-style: italic;
     font-weight: bold;
     color: rgb(255, 97, 97);
@@ -59,4 +59,13 @@ body {
     }
     #rovid{
         color: orange;
+    }
+    ul{
+        color: orange;
+    }
+    #hosszuhaszontalan{
+        color: white;
+        font-size: 150%;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-style: italic;
     }
