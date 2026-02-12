@@ -69,3 +69,7 @@ body {
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         font-style: italic;
     }
+    #NOB{
+        text-decoration: underline overline;
+        color: white;
+    }
