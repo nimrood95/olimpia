@@ -30,3 +30,33 @@ body {
         height: 50px;
         background-color: grey;
     }
+    h2{
+        font-size: xx-large;
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(172, 28, 255);
+    text-shadow: 0 0 3px rgba(64, 49, 206, 0.459), 0 0 12px rgba(11, 8, 165, 0.7), 0 0 20px rgba(94, 6, 194, 0.897);
+    }
+    h3{
+        font-size: xx-large;
+        font-style: italic;
+        font-weight: bold;
+        color: rgb(94, 255, 0);
+        text-shadow: 0 0 3px rgba(89, 109, 0, 0.95), 0 0 12px rgba(65, 255, 48, 0.7), 0 0 20px rgba(173, 255, 22, 0.836);
+    }
+    #okori{
+        font-style: oblique;
+        color: rgb(162, 0, 255);
+        font-size: 150%;
+        text-align: justify;
+    }
+    #ujkori{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: rgb(0, 197, 0);
+        font-size: 125%;
+        font-style: italic;
+        text-align: justify;
+    }
+    #rovid{
+        color: orange;
+    }
